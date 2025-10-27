@@ -28,13 +28,13 @@ const Navbar = ({ onMenuClick }) => {
             
             <div className="flex items-center gap-2">
               <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
-                <span className="text-white font-bold text-xl">S</span>
+                <span className="text-white font-bold text-xl">IQ</span>
               </div>
               <div>
                 <h1 className="text-xl font-display font-bold text-slate-800 dark:text-white">
-                  Sentiment AI
+                  Sentiment IQ
                 </h1>
-                <p className="text-xs text-slate-500 dark:text-slate-400">Amazon Alexa Analytics</p>
+                <p className="text-xs text-slate-500 dark:text-slate-400">by Jay Prakash</p>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@ const Navbar = ({ onMenuClick }) => {
             </motion.button>
 
             <div className="w-10 h-10 rounded-full bg-gradient-to-br from-green-400 to-blue-500 flex items-center justify-center cursor-pointer">
-              <span className="text-white font-semibold">U</span>
+              <span className="text-white font-semibold">JP</span>
             </div>
           </div>
         </div>

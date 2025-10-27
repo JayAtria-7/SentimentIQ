@@ -1,9 +1,11 @@
-# Sentiment Analysis Dashboard
+# Sentiment IQ
 
 > Modern, responsive React-based dashboard for Amazon Alexa Review Sentiment Analysis with 95.43% accuracy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JayAtria-7/sentiment-analysis-dashboard)
-[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JayAtria-7/sentiment-analysis-dashboard)
+**Created by Jay Prakash Kumar**
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JayAtria-7/SentimentIQ)
+[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JayAtria-7/SentimentIQ)
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Deploy%20to-Hugging%20Face-yellow)](https://huggingface.co/new-space)
 
 ![React](https://img.shields.io/badge/React-18.2-blue) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-10.16-purple) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-cyan) ![License](https://img.shields.io/badge/License-MIT-green)
@@ -329,6 +331,8 @@ For questions or feedback:
 
 **⭐ If you like this project, please give it a star on GitHub!**
 
-**Built with ❤️ for Amazon Alexa Review Sentiment Analysis**
+**Built with ❤️ by Jay Prakash Kumar**
+
+**Sentiment IQ - Amazon Alexa Review Analytics**
 
 *Last Updated: October 27, 2025*

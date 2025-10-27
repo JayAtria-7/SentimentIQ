@@ -14,10 +14,10 @@ const Dashboard = () => {
       {/* Header */}
       <motion.div variants={fadeInUp} className="mb-8">
         <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-2">
-          Dashboard
+          Sentiment IQ Dashboard
         </h1>
         <p className="text-gray-600 dark:text-gray-400">
-          Amazon Alexa Review Sentiment Analysis Overview
+          Amazon Alexa Review Analytics by Jay Prakash
         </p>
       </motion.div>
 

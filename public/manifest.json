@@ -1,6 +1,6 @@
 {
-  "short_name": "Sentiment Dashboard",
-  "name": "Amazon Alexa Sentiment Analysis Dashboard",
+  "short_name": "Sentiment IQ",
+  "name": "Sentiment IQ - Amazon Alexa Analytics by Jay Prakash",
   "icons": [
     {
       "src": "favicon.ico",
@@ -22,7 +22,7 @@
   "display": "standalone",
   "theme_color": "#667EEA",
   "background_color": "#1A1A2E",
-  "description": "Modern sentiment analysis dashboard with real-time predictions and interactive visualizations",
+  "description": "Sentiment IQ - Modern sentiment analysis dashboard with real-time predictions by Jay Prakash",
   "categories": ["productivity", "analytics"],
   "orientation": "portrait-primary"
 }
