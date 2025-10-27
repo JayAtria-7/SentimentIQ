@@ -1,0 +1,28 @@
+{
+  "short_name": "Sentiment Dashboard",
+  "name": "Amazon Alexa Sentiment Analysis Dashboard",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667EEA",
+  "background_color": "#1A1A2E",
+  "description": "Modern sentiment analysis dashboard with real-time predictions and interactive visualizations",
+  "categories": ["productivity", "analytics"],
+  "orientation": "portrait-primary"
+}
