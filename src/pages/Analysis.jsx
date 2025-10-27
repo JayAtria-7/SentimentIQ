@@ -53,7 +53,7 @@ const Analysis = () => {
           Live Sentiment Analysis
         </h1>
         <p className="text-gray-600 dark:text-gray-400">
-          Enter a review to get real-time sentiment prediction
+          Powered by Sentiment IQ - Created by Jay Prakash
         </p>
       </motion.div>
 
