@@ -17,7 +17,7 @@ const Dashboard = () => {
           Sentiment IQ Dashboard
         </h1>
         <p className="text-gray-600 dark:text-gray-400">
-          Amazon Alexa Review Analytics by Jay Prakash
+          Amazon Alexa Review Analytics
         </p>
       </motion.div>
 
